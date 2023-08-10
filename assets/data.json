@@ -1,1 +1,87 @@
+Skip to content
+ 
+Search…
+All gists
+Back to GitHub
+@kpap2504 
+@rubenCodeforges
+rubenCodeforges/users.json
+Created 7 years ago • Report abuse
+Code
+Revisions
+1
+Stars
+7
+<script src="https://gist.github.com/rubenCodeforges/ef1f0ce6a055bbb985c0848d8b0c04d5.js"></script>
+users.json
+[
+  {
+    "balance": "$3,946.45",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "name": "Bird Ramsey",
+    "gender": "male",
+    "company": "NIMON",
+    "email": "birdramsey@nimon.com"
+  },
+  {
+    "balance": "$2,499.49",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "name": "Lillian Burgess",
+    "gender": "female",
+    "company": "LUXURIA",
+    "email": "lillianburgess@luxuria.com"
+  },
+  {
+    "balance": "$2,820.18",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "name": "Kristie Cole",
+    "gender": "female",
+    "company": "QUADEEBO",
+    "email": "kristiecole@quadeebo.com"
+  },
+  {
+    "balance": "$3,277.32",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "name": "Leonor Cross",
+    "gender": "female",
+    "company": "GRONK",
+    "email": "leonorcross@gronk.com"
+  },
+  {
+    "balance": "$1,972.47",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "name": "Marsh Mccall",
+    "gender": "male",
+    "company": "ULTRIMAX",
+    "email": "marshmccall@ultrimax.com"
+  }
+]
+@Marafa9
+Marafa9 commented on Dec 2, 2022
+How can I download user.json
+
+@kpap2504
+ 
+Leave a comment
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
 
